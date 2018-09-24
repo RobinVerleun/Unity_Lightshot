@@ -1,7 +1,7 @@
 Lightshot Game
 ======
 
-###BUILD INSTRUCTIONS
+**BUILD INSTRUCTIONS**
 1. Import the project into your Unity Editor (2017.02.0f3 >)
 2. Open the project, then select `File > Build Settings`
 3. Ensure that the `MainScene` is added to the build steps by clicking `Add Open Scenes`.
@@ -9,14 +9,14 @@ Lightshot Game
 5. Press `Build and Run`. 
 
 
-###CONTROLS
+**CONTROLS**
 * Movement controls are done using W-A-S-D configuration.
 * Aiming can be done with either the mouse or arrow keys.
 * Left click or spacebar will shoot Light from the gun.
 * Change your Light by pressing the numbers 1, 2, 3, 4, or 5 on the Number Row.
 
 
-###GAME MECHANICS
+**GAME MECHANICS**
 The game will continually spawn LightTargets above the play area. Using your gun,
 shoot the targets with the corresponding colour in order to earn a point. There is no
 time limit or punishment for falling behind - use the game to increase coordination
@@ -24,10 +24,9 @@ and spacial reasoning. The bullets can be hard to judge as they're invisible in 
 without a reflective surface!
 
 
-============================================
 
-
-#####Musings
+Musings
+======
 
 Long development time for me on this project while switching context from web-based development.
 Working in the Unity Editor had challenges that only reading, studying, and iterating could 
