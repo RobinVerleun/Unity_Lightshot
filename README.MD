@@ -28,6 +28,7 @@ without a reflective surface!
 
 
 #####Musings
+
 Long development time for me on this project while switching context from web-based development.
 Working in the Unity Editor had challenges that only reading, studying, and iterating could 
 teach. I'm happy to say that I feel a lot more fluent than I did before with both the editor
